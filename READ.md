@@ -6,6 +6,5 @@ Some description!!!!
 
 Watch tuorial on youtube
 
-##Local development
 
-Open html in your browser.
+Alubokhaka adfjshdglsagh
